@@ -44,4 +44,5 @@ The project follows a clean, pattern-oriented architecture with the following ke
 
 ## Authors
 **.** Passant Shaaban
+
 **.** Sandy Emad
