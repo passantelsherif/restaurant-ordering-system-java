@@ -40,6 +40,7 @@ The project follows a clean, pattern-oriented architecture with the following ke
    java RestaurantApp
 4. **Choose mode:**
    **1: Interactive Mode** – Build custom orders
+   
    **2: Demo Mode** – Run automated test scenarios
 
 ## Authors
